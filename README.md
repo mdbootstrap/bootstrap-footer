@@ -8,7 +8,7 @@ The ultimate collection of responsive **Footers** built with the latest Bootstra
 
 [▶️ Video tutorial](https://www.youtube.com/watch?v=UEfFpk4sSxE)
 
-[⚙️ WYSIWYG generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/)
+[⚙️ Free generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/)
 
 ---------------------
 
