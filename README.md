@@ -5,8 +5,8 @@ The ultimate collection of responsive **Footers** built with the latest Bootstra
 <p><strong>How to use it?</strong></p>
 <p class="mb-2">
 <strong>1. </strong>Download<a target="_blank" href="https://mdbootstrap.com/docs/standard/"> MDB 5 - free UI KIT</a></p>
-<p class="mb-2"><strong>2. </strong>Create the card you like</p>
-<p class="mb-3"><strong>3. </strong>Copy the generated code and paste it into the MDB project</p>
+<p class="mb-2"><strong>2. </strong>Choose your favourite customized component and click on the image</p>
+<p class="mb-3"><strong>3. </strong>Paste the generated code into your MDB project</p>
 
 --------------------
 
